@@ -11,7 +11,7 @@ Things that were done:
   - History list is ordered by time
   - App assists in correct user input (with the exception of comments being larger then 100 characters)
   - App is persistent. 
-  - Video
+  - Video containing elements (1, 2, 3, 4, 5, 6, 8, 9, 10, 12)
   
 Things that were not done:
   - See a count of each emotion recorded
